@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lukka/static/css/main.59cee4f1.css",
+    "main.js": "/lukka/static/js/main.914519a3.js",
+    "static/js/453.baffa873.chunk.js": "/lukka/static/js/453.baffa873.chunk.js",
+    "static/media/Attach0(8).jpg": "/lukka/static/media/Attach0(8).0b5cfa0d4cdd5bc1df76.jpg",
+    "static/media/Attach0(4).jpg": "/lukka/static/media/Attach0(4).abd9b4ddfc37f6b79135.jpg",
+    "static/media/Attach0.jpg": "/lukka/static/media/Attach0.1fe958cb7c7953b6b971.jpg",
+    "static/media/Attach0(3).jpg": "/lukka/static/media/Attach0(3).8193e9c7f378300eb23f.jpg",
+    "static/media/Attach0(2).jpg": "/lukka/static/media/Attach0(2).3781362f29fb9ee0897e.jpg",
+    "static/media/Attach0(7).jpg": "/lukka/static/media/Attach0(7).55fdbc30788082af7bf8.jpg",
+    "static/media/Attach0(1).jpg": "/lukka/static/media/Attach0(1).f0e62fb66b68301e9cef.jpg",
+    "static/media/Attach0(6).jpg": "/lukka/static/media/Attach0(6).7ef279c2ec2bd266dab1.jpg",
+    "static/media/Attach0(5).jpg": "/lukka/static/media/Attach0(5).fe11b6f634e653374bbf.jpg",
+    "index.html": "/lukka/index.html",
+    "main.59cee4f1.css.map": "/lukka/static/css/main.59cee4f1.css.map",
+    "main.914519a3.js.map": "/lukka/static/js/main.914519a3.js.map",
+    "453.baffa873.chunk.js.map": "/lukka/static/js/453.baffa873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59cee4f1.css",
+    "static/js/main.914519a3.js"
+  ]
+}
