@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lukka/static/css/main.4471db63.css",
+    "main.css": "/lukka/static/css/main.375c7a2b.css",
     "main.js": "/lukka/static/js/main.914519a3.js",
     "static/js/453.baffa873.chunk.js": "/lukka/static/js/453.baffa873.chunk.js",
     "static/media/Attach0(8).jpg": "/lukka/static/media/Attach0(8).0b5cfa0d4cdd5bc1df76.jpg",
@@ -13,12 +13,12 @@
     "static/media/Attach0(6).jpg": "/lukka/static/media/Attach0(6).7ef279c2ec2bd266dab1.jpg",
     "static/media/Attach0(5).jpg": "/lukka/static/media/Attach0(5).fe11b6f634e653374bbf.jpg",
     "index.html": "/lukka/index.html",
-    "main.4471db63.css.map": "/lukka/static/css/main.4471db63.css.map",
+    "main.375c7a2b.css.map": "/lukka/static/css/main.375c7a2b.css.map",
     "main.914519a3.js.map": "/lukka/static/js/main.914519a3.js.map",
     "453.baffa873.chunk.js.map": "/lukka/static/js/453.baffa873.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4471db63.css",
+    "static/css/main.375c7a2b.css",
     "static/js/main.914519a3.js"
   ]
 }
